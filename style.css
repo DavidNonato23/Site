@@ -1,5 +1,6 @@
 body{
     background-image: url(fotos/backgrond.jpg);
+    background-position: center center;
     text-align: center;
     background-attachment: fixed;
     
